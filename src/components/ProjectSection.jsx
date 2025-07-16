@@ -7,8 +7,9 @@ const projects=[
         description:"Responsive personal site built using React and Tailwind CSS.",
         image:"/projects/project1.png",
         tags:["React", "Tailwind"],
-        demoUrl:"#",
-        githubUrl:"#",
+        demoUrl:"https://portfolio-website-cyan-chi-82.vercel.app/",
+        githubUrl:"https://github.com/GayatriDabhade09/Portfolio-Website",
+        
     },
     {
         id:2,
@@ -16,8 +17,8 @@ const projects=[
         description:"Displays vehicle speed using IR sensors and 8051 microcontroller.",
         image:"/projects/CarSpeedChecker.jpg",
         tags:["Microcontroller 8051"],
-        demoUrl:"https://portfolio-website-cyan-chi-82.vercel.app/",
-        githubUrl:"https://github.com/GayatriDabhade09/Portfolio-Website",
+        demoUrl:"#",
+        githubUrl:"#",
     },
     {
         id:3,
